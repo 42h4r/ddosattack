@@ -9,8 +9,8 @@ def usage():
     print "#   \033[1;91mCommand: " "python2 LITEDDOS.py " "<ip> <port> <packet> \033[1;32m   #"
     print "#                                                       #"
     print "#\033[1;91mCreator:Mr.Hack  \033[1;32m##      ###       ##                #"
-    print "#\033[1;91mYoutube:RAZ QUIRO \033[1;32m##
-    cetak "#\033[1;91mWhatsApp:083846182982 \033[1;32m##
+    print "#\033[1;91mYoutube:RAZ QUIRO  \033[1;32m##
+    print "#\033[1;91mWhatsApp:083846182982  \033[1;32m##
     print "#\033[1;91mTeam   : ISL        \033[1;32m##     #          ##                #"
     print "#\033[1;91mVersion:1.0        \033[1;32m##      ###       ##                #"
     print "#                   ## \033[1;91m ##     \033[1;32m#  \033[1;91m##  \033[1;32m##                #"
